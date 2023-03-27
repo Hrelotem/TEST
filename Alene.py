@@ -1,1 +1,2 @@
-print("Kan man det her?")
+
+print("NY PRINT")
